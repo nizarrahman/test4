@@ -13,7 +13,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 𝐀𝐫𝐢𝐠𝐚𝐭𝐨𝐮!!!
 
 Contact person Owner:
-wa.me/62895604670507 (Owner)`
+wa.me/6281386945391 (Owner)`
 let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/df81f6ad526d8d0df96a2.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
@@ -24,14 +24,14 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            hydratedButtons: [{
              urlButton: {
                displayText: '📸Instagram',
-               url: 'https://instagram.com/inizenscuy'
+               url: 'https://instagram.com/nizarrrahman.f_'
              }
 
            },
                {
              callButton: {
-               displayText: 'Gopay',
-               phoneNumber: '6289-56046-70507'
+               displayText: 'Pulsa',
+               phoneNumber: '62813-8694-5391'
              }
            },           
                {
