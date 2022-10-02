@@ -8,8 +8,8 @@ let handler = async (m, { conn, usedPrefix }) => {
       extendedTextMessage: {
       text: `
 ╭─「 Mau Esceh??? 」
-│ • Ada Di Youtube ZenssCuyy
-│ • Bit.ly/ytClara
+│ • Ada Di Instagram nai_developer
+│ • https://Instagram.com/nai_developer
 ╰────
 `,
       contextInfo: {
