@@ -13,7 +13,7 @@ const defaultMenu = {
 ├ Tersisa *%limit Limit*
 ├ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
 ├%totalexp XP in Total
-├✮ Owner: https://wa.me/62895604670507
+├✮ Owner: https://wa.me/6281386945391
 └────►
 %readmore`.trimStart(),
   header: '┏━━━•❅•°•❈ %category 』',
@@ -211,144 +211,144 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
               "rows": [
                 {
                   "title": `Menu Utama`,
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER ",
                   "rowId": ".? all"
                 },
                  {
                   "title": "Rpg",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER ",
                   "rowId": ".? rpg"
                 },
                 {
                   "title": "Daftar",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER ",
                   "rowId": ".? daftar"
                 },
                 {
                   "title": "Rules",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER ",
                   "rowId": ".? rules"
                 },
                  {
                   "title": "Request Fitur",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER ",
                   "rowId": ".? request"
                 },
                 {
                   "title": "Main",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER ",
                   "rowId": ".? main"
                 },
                   {
                   "title": "Game",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER ",
                   "rowId": ".? game"
                 }, {
                   "title": "Exp & Limit",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER ",
                   "rowId": ".? xp"
                 }, {
                   "title": "Sticker",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? sticker"
                 }, 
                 {
                   "title": "Donasi",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? donasi"
                 },
                 {
                   "title": "Kerang Ajaib",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? kerang"
                 }, {
                   "title": "Quotes",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? quotes"
                 }, {
                   "title": "Admin",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? admin"
                 }, {
                   "title": "Grup",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? group"
                 },
                 {
                   "title": "Premium",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? premium"
                 }, {
                   "title": "Internet",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? internet"
                 },
                 {
                   "title": "Anonymous Chat",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                  "rowId": ".? anonymous"
                 },
                 {
                   "title": "Nulis & Logo",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? nulis"
                 }, {
                   "title": "Downloader",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? downloader"
                 }, {
                   "title": "Tools",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? tools"
                 }, {
                   "title": "Fun",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? fun"
                 }, 
                 {
                   "title": "Asupan",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? asupan"
                 },
                 {
                   "title": "Database",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? database"
                 },
                 {
                   "title": "Al-Qur'an",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? quran"
                 },
                 
                 {
                   "title": "Jadi Bot",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? jadibot"
                 },
                    {
                   "title": "Owner",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? owner"
                 },
                 {
                   "title": "Host",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? host"
                 },
                 {
                   "title": "Advanced",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? advanced"
                 },
                 {
                   "title": "Info",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? info"
                 },
                 {
                   "title": "Exp",
-                  "description": "© 𝚇𝚒𝚊𝚘 𝙱𝚢 𝚉𝚎𝚗𝚜𝚜",
+                  "description": "© NAI DEVELOPER",
                   "rowId": ".? exp"
                 },
               ]
