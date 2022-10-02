@@ -6,7 +6,7 @@ let fetch = require('node-fetch')
 let moment = require('moment-timezone')
 const defaultMenu = {
   before: `
-┌────►〔 𝐗𝐢𝐚𝐨𝐁𝐎𝐓 〕
+┌────►〔 NAI-Dev-Md v4 〕
 ├ Hallo👋 %name!
 ├ Kamu Adalah Role %role
 ├ Kamu adalah %rank
