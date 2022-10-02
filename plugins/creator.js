@@ -1,6 +1,8 @@
 let handler = function (m) {
   // this.sendContact(m.chat, '6281515860089', 'Nurutomo', m)
-  conn.sendContact(m.chat, '62895604670507', 'Zenss', m)
+  conn.sendContact(m.chat, '6281386945391', 'Nizar', m)
+  conn.sendContact(m.chat, '6283120240903', 'Adryan', m)
+  conn.sendContact(m.chat, '6281223618476', 'Irham', m)
   
 }
 handler.help = ['owner', 'creator']
