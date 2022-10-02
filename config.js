@@ -1,10 +1,10 @@
-global.you = ['62895604670507'] // Developer Bot
-global.rowner = ['62895604670507'] // Real Owner Bot
-global.owner = ['62895604670507'] // Owner Bot
-global.police = ['62895604670507'] // Police Bot
-global.mods = ['62895604670507']  // Want some help?
-global.prems = ['62895604670507'] // Premium user has unlimited limit
-global.helper = ['62895604670507']
+global.you = ['6281386945391'] // Developer Bot
+global.rowner = ['6281386945391','6283120240903','6281223618476'] // Real Owner Bot
+global.owner = ['6281386945391','6283120240903','6281223618476'] // Owner Bot
+global.police = ['6283120240903'] // Police Bot
+global.mods = ['6281223618476']  // Want some help?
+global.prems = ['6281386945391','6283120240903','6281223618476'] // Premium user has unlimited limit
+global.helper = ['6281386945391']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -59,9 +59,9 @@ global.useMulti = false
 global.media = 'https://telegra.ph/file/da17ba93a26ee0a9b1059.jpg'
 
 // Sticker WM
-global.packname = 'Xiao'
-global.author = 'Zens'
-global.wm = '© Xiao BOT'
+global.packname = 'Nai-Dev-Md-V5'
+global.author = 'NAI DEVELOPER'
+global.wm = '© Nizar Rahman'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
