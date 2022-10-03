@@ -18,7 +18,7 @@ Hai 👋
 ┣➲ bisa invite bot ke grup
 ┗━━━•❅•°•❈
 Contact person Owner:
-wa.me/62895604670507 (Owner)`
+wa.me/6281386945391 (Owner)`
 let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/df81f6ad526d8d0df96a2.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
